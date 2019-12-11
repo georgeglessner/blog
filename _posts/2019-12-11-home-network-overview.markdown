@@ -27,6 +27,12 @@ PiVPN is a VPN server, as its name suggests. I installed PiVPN in order to acces
 
 PiHole is “a black hole for Internet advertisements”. I have PiHole setup as a network-wide ad blocker, meaning my router’s DNS is pointed to the IP of my raspberry pi running PiHole (this is why a static IP is important). Currently I have over one million domains on my blocklist, and I average about 35% blocked. I personally love PiHole, I believe it has sped up my browsing time, and it has also improved my quality of browsing by seeing __way__ less ads on pages. A few times, PiHole will block a domain that I need to access, but that is a simple fix by whitelisting the domain from the PiHole GUI. Just like PiVPN, PiHole is a one-line command install. 
 
+<figure>
+  <img src="{{site.baseurl}}/assets/pihole.png" alt="PiHole Dashboard">
+  <center><figcaption>PiHole Dashboard.</figcaption></center>
+</figure>
+
+
 My NAS allows me to store files in a centralized location and access them from any device connected to my network. My NAS is powered by Samba, and the storage device is a 1TB external hard drive. I store backups of my devices and any other files I’d like to be able to access from more than one machine on this device. 
 
 
