@@ -23,7 +23,7 @@ email: g.glessner@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog covering topics from software development to the outdoors. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://georgeglessner.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  georgeglessner
 # Disqus Comments
