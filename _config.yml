@@ -35,6 +35,9 @@ disqus:
 # show excerpts
 show_excerpts: true
 
+# pagination
+paginate: 5
+
 # google analytics
 google_analytics: UA-154426789-1
 
@@ -42,6 +45,7 @@ google_analytics: UA-154426789-1
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 
 # Exclude from processing.
