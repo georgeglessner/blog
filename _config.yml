@@ -35,7 +35,11 @@ disqus:
 # show excerpts
 show_excerpts: true
 
-paginate: 1
+# pagination
+paginate: 5
+
+# google analytics
+google_analytics: UA-154426789-1
 
 # Build settings
 theme: minima
