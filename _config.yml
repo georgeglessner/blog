@@ -38,6 +38,9 @@ show_excerpts: true
 # pagination
 paginate: 5
 
+# blog post url 
+permalink: /:title/
+
 # google analytics
 google_analytics: UA-154426789-1
 
