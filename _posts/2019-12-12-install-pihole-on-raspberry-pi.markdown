@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "Install PiHole via SSH on a Raspberry Pi"
+title:  "How to Install PiHole on a Raspberry Pi"
 ---
 
-Before we begin, I will assume that you have already installed the OS of your choice and have SSH enabled. If not, you can follow the instructions [here](https://howtoraspberrypi.com/how-to-raspberry-pi-headless-setup/) before you continue. 
-
-Moving along. 
+Before we begin, I will assume that you already have your raspberry pi set up and are able to log in. If not, you can find guides on how to do that [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up). 
 
 ## Step 1
-SSH into your machine. 
+Log in to your rapsberry pi. You may also ssh into your machine and follow this guide via ssh.
+
 `ssh pi@IP_ADDRESS`
 
-## Step 2
-Run the one-line command to begin install. 
+## Step 1
+Open terminal and enter the following command to begin installation. 
+
 `curl -sSL https://install.pi-hole.net | bash`
+
 The install script will perform a few checks before proceeding. 
 
 ## Step 3
@@ -76,7 +77,9 @@ Next it will ask which level of privacy you want. I suggest you show everything,
 PiHole will finsih the installation process and apply all the settings you have chosen. 
 
 ## Step 13
-Run `sudo pihole -a -p` to set a new admin password. 
+Run the following command to set a new admin password. 
+
+`sudo pihole -a -p` 
 
 If everything was successful, you should now be able to open a web browser and go to `PIHOLE_IP_ADDRESS/admin` and see the GUI. 
 
