@@ -29,7 +29,7 @@ Hit enter to continue through the first few welcome messages until you arrive at
   <img src="{{site.baseurl}}/assets/interface-pihole.png" alt="PiHole Dashboard">
 </figure>
 ## Step 4
-Choose either `eth0` (ethernet) or `wlan0` (wireless). I prefer an ethernet connection, but use whatever you prefer. This particular device I am installing PiHole on is connected via WiFi so I will select wlan0. 
+Choose either `eth0` (ethernet) or `wlan0` (wireless). I prefer an ethernet connection, but use whatever you prefer. This particular device I am installing PiHole on is connected via WiFi so I will select `wlan0`. 
 
 __Tip:__ Use the up/down arrow keys to change selection and the space bar to select. Hit enter to move to next screen. Left/right keys are used to select "ok" and "cancel".  
 
@@ -92,16 +92,16 @@ Congratulations! You have successfully set up PiHole. If you would like to speci
 
 ## Network Wide Ad Blocking
 
-To enable network wide ad blocking, we must set our router's DNS to point to the IP Address of our PiHole. All routers are different, so you may need to look up how to do it for your particular router. If your router does not allow you to modify the DNS settings, you can set the DNS for individual devices as stated previously. 
+To enable network wide ad blocking, we must set our router's DNS to point to the IP address of our PiHole. All routers are different, so you may need to look up how to do it for your particular router. If your router does not allow you to modify the DNS settings, you can set the DNS for individual devices as stated previously. 
 
-My DNS settings are located under "Settings". I set my primary DNS to be that of my PiHole, and my secondary to point to `8.8.8.8` which is Google's DNS. This ensures that if my PiHole was to ever lose connectivity, my router will use Google's DNS as a backup plan. 
+My DNS settings are located under "Setup". I set my primary DNS to be my PiHole IP address. If you would like to add redundancy in case your PiHole loses connectivity, you may duplicate your setup on another device and add that IP address as a backup DNS server. 
 
 <figure>
   <img src="{{site.baseurl}}/assets/router-dns.png" alt="PiHole Dashboard">
 </figure>
 
 ## Adding Additional Block Lists
-Once logged in to the PiHole GUI, go to Settings -> Blocklists. Here you will see all of the blocklists currently installed. There are many resources online providing you with blocklists for all sort of different blocking scenarios. One of my favorite lists is `https://dbl.oisd.nl`. Once you have added the lists you want, click "Save and Update". PiHole will update and add the new lists. 
+Once logged in to the PiHole GUI, go to Settings -> Blocklists. Here you will see all of the blocklists currently installed. There are many resources online providing you with blocklists for all sort of different blocking scenarios. One of my favorite lists is `https://dbl.oisd.nl`. You can find out more information about this blocklist [here](https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/). Once you have added the lists you want, click "Save and Update". PiHole will update and add the new lists. 
 <figure>
   <img src="{{site.baseurl}}/assets/add-blocklist-pihole.png" alt="PiHole Dashboard">
 </figure>
