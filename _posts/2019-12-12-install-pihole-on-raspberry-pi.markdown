@@ -29,7 +29,7 @@ Hit enter to continue through the first few welcome messages until you arrive at
   <img src="{{site.baseurl}}/assets/interface-pihole.png" alt="PiHole Dashboard">
 </figure>
 ## Step 4
-Choose either eth0 (ethernet) or wlan0(wireless). I prefer an ethernet connection, but use whatever you prefer. This particular device I am installing PiHole on is connected via WiFi so I will select wlan0. 
+Choose either `eth0` (ethernet) or `wlan0` (wireless). I prefer an ethernet connection, but use whatever you prefer. This particular device I am installing PiHole on is connected via WiFi so I will select wlan0. 
 
 __Tip:__ Use the up/down arrow keys to change selection and the space bar to select. Hit enter to move to next screen. Left/right keys are used to select "ok" and "cancel".  
 
