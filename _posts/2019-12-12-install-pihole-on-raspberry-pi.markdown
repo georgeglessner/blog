@@ -88,7 +88,10 @@ If everything was successful, you should now be able to open a web browser and g
 </figure>
 Click "Login" and enter the admin password you set in step 13. 
 
-Congratulations! You have successfully set up PiHole. If you would like to specify only certain devices to use PiHole, simply set their DNS server to the IP address of your PiHole. If you would like to set up network wide ad blocking, continue reading. 
+Congratulations! You have successfully set up PiHole. If you would like to specify only certain devices to use PiHole, simply set their DNS server to the IP address of your PiHole. 
+
+
+If you would like to set up network wide ad blocking or add additional block lists, continue reading. 
 
 ## Network Wide Ad Blocking
 
