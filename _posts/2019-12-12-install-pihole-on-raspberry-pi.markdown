@@ -104,7 +104,7 @@ My DNS settings are located under "Setup". I set my primary DNS to be my PiHole 
 </figure>
 
 ## Adding Additional Block Lists
-Once logged in to the PiHole GUI, go to Settings -> Blocklists. Here you will see all of the blocklists currently installed. There are many resources online providing you with blocklists for all sort of different blocking scenarios. One of my favorite lists is `https://dbl.oisd.nl`. You can find out more information about this blocklist [here](https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/). Once you have added the lists you want, click "Save and Update". PiHole will update and add the new lists. 
+Once logged in to the PiHole GUI, go to Settings -> Blocklists. Here you will see all of the blocklists currently installed. There are many resources online providing you with blocklists for all sorts of different blocking scenarios. One of my favorite lists is `https://dbl.oisd.nl`. You can find out more information about this blocklist [here](https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/). Once you have added the lists you want, click "Save and Update". PiHole will update and add the new lists. 
 <figure>
   <img src="{{site.baseurl}}/assets/add-blocklist-pihole.png" alt="PiHole Dashboard">
 </figure>
