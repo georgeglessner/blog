@@ -18,7 +18,7 @@ We pulled over to one of Gaston's picnic tables on the bank and Gabe cooked us u
 
 After lunch, we were back at it hard. I landed a small bow shortly after we got back out on the water, and that would be the last fish to the net for the day. 
 
-We spent a good 6 hours tossing streamers in search for a brown trout. My hands cramped up almost every stretch we fished since I haven't held a fly rod in a year, but it was so worth it! The White River is a beautiful fishery, I am glad to have the opportunity to be here and experience this. 
+We spent a good six hours tossing streamers in search for a brown trout. My hands cramped up almost every stretch we fished since I haven't held a fly rod in a year, but it was so worth it! The White River is a beautiful fishery, I am glad to have the opportunity to be here and experience this. 
 
 The best part is, we still have two more days of solid fishing ahead! We are heading back out with Gabe tomorrow morning to do another day of fly fishing, and then we are heading out with Donald Cranor from [Cranor's White River Lodge](https://cranorswhiteriverlodge.com/), where we are staying, to throw some spinning rods. 
 
