@@ -50,7 +50,7 @@ At 12 p.m., just before lunch, my indicator went down and I set the hook. It fel
 <center>
 <figure>
   <img src="{{site.baseurl}}/assets/images/whiteriver5.jpeg" alt="Dad's first brown">
-    <center><figcaption>Dad with his first White River brown!</figcaption></center>
+    <center><figcaption>Dad with his first brown of the trip!</figcaption></center>
 </figure>
 </center>
 
