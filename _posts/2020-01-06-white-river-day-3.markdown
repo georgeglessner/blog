@@ -13,7 +13,7 @@ Instantly we starting hooking into browns again. Every run seemed to produce one
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/whiteriver10.jpg" alt="PB brown">
+  <img src="{{site.baseurl}}/assets/images/whiteriver10.JPG" alt="PB brown">
     <center><figcaption>My new personal best brown trout. 25.5 inches.</figcaption></center>
 </figure>
 </center>
