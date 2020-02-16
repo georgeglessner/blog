@@ -83,7 +83,6 @@ I wanted to have a public repository of my flight data, so I created a repositor
 
 ```bash
 #!/bin/bash
-cd ~/MyFlights
 cp -r ~/FlightLogger/flights .
 git add .
 git commit -m "Update flight log"
