@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Simple Flight Logging - PiAware + dump1090"
+tags: python, piaware, dump1090
 ---
 
 If you read my [most recent post](https://www.georgeglessner.com/blog/first-impressions-piaware/) you would know that I recently installed PiAware on one of my Raspberry Pi's. I was very content with my setup... for a few hours. I had two things I was displeased about with my current setup. The first is my antenna / tracking distance, but that is something I plan to fix down the road. My main concern was that I wasn't storing any flight data locally. Not that it really matters, but I wanted to be able to keep track of which flights I had tracked that day, and FlightAware doesn't keep that historical data per user (I think). So, I decided to write a simple Python script to keep track of unique flights I have tracked per day. 

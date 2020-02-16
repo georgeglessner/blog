@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Install PiHole on a Raspberry Pi"
+tags: pihole, raspberry pi
 ---
 
 Before we begin, I will assume that you already have your raspberry pi set up and are able to log in. If not, you can find guides on how to do that [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up). 

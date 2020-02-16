@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First Impressions - PiAware"
+tags: flightaware, piaware
 ---
 
 I had an extra Raspberry Pi 3B laying around not being utilized for anything and was struggling to figure out a use for it. I have recently become fascinated with aviation, so I thought I would try to do something relating to that. I stumbled upon [PiAware](https://flightaware.com/adsb/piaware/build) and was amazed at how easy the setup seemed to be. I quickly downloaded and flashed PiAware and had the OS up and running within 5 minutes. I ordered a FlightAware Pro Stick Plus ADS-B receiver and a cheap onelinkmore 1090 Mhz antenna and had to wait 2 days to receive them, which is today. 

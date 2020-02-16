@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Arkansas Fishing Trip 2020 - Day 1"
+tags: fishing, trout, arkansas
 ---
 
 My dad and I are in Arkansas for an extended weekend fishing the White River. Today we went out with guide [Gabe Levin](https://theozarkflyfisher.com/guide-trips/guide-view/20) from Dally's Ozark Fly Fisher. 

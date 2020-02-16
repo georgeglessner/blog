@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Arkansas Fishing Trip 2020 - Day 3"
+tags: fishing, trout, arkansas
 ---
 
 Today was an incredible way to end our Arkansas White River trip! We went out with guide Donald Cranor today tossing spinning rods and beads. The difference between today's method and yesterday's is that today the bead was on the bottom the whole time, since we were not using indicators. 

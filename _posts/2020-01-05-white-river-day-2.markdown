@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Arkansas Fishing Trip 2020 - Day 2"
+tags: fishing, trout, arkansas
 ---
 
 All I can say is what a day! 

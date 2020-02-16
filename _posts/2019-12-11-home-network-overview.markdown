@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Home Network Overview"
+tags: networking, raspberry pi, pivpn, pihole, nas
 ---
 
 My home network is moderately simple, consisting of a modem, router, and two [raspberry pis](https://www.raspberrypi.org/). I’d like to take the time to go over the what and why of every aspect of my home network.
