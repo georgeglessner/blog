@@ -79,7 +79,7 @@ I have this script running on another Raspberry Pi of mine. I created a cron job
 
 This is sufficient enough to store the data since the data will be stored in `FlightLogger/flights`. 
 
-I wanted to have a public repository of my flight data, so I created a repository called MyFlights. This folder is updated every 2 hours and pushed to GitHub. I created a simple bash script that copies the files from `FlightLogger/flights` into MyFlights and then pushes the changes to GitHub. The bash script is set up as follows:
+I wanted to have a public repository of my flight data, so I created a repository called MyFlights. This folder is updated every 12 hours and pushed to GitHub. I created a simple bash script that copies the files from `FlightLogger/flights` into MyFlights and then pushes the changes to GitHub. The bash script is set up as follows:
 
 ```bash
 #!/bin/bash
