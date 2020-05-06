@@ -13,3 +13,5 @@ The plugin works by finding the `href` of the image you clicked on, and opens th
 The popup does still appear when you click on a picture and are brought to the new tab to view that picture. This makes it annoying when you close out of the picture tab to go back to the main page and are greeted with that pesky popup. I will try fixing this soon. 
 
 You can download the add-on [here](https://addons.mozilla.org/en-US/firefox/addon/instasee/) and the source code can be found [here](https://github.com/georgeglessner/InstaSee).
+
+## [Changelog ](https://github.com/georgeglessner/InstaSee/releases)
