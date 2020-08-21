@@ -30,7 +30,8 @@ $chunkCount = count($equipmentChunk);
 
 for ($i=0; $i<$chunkCount; $i++){
     // some logic here 
-    $equipmentCount = count($equipmnetChunk[$i]);
+    $equipmentDetail = $equipmnetChunk[$i];
+    $equipmnetCount = count($equipmentDetail);
     
     for($j=0; $j<$equipmentCount; $j++) {
         // table logic here
