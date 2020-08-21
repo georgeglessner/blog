@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Do This In Your For Loops"
-tags: 
+tags: php, programming, coding, optimization
 ---
 
 Our intern got a ticket yesterday about a page that wouldn't load for one of our employees. The page is a table that displays equipment data. In this case, there were 17,000 lines of equipment that needed to be displayed. But all she saw was a never ending loading circle. 

@@ -20,6 +20,7 @@ def main():
     post_title = arguments.get('TITLE')
     today = date.today()
     post_replace = post_title.replace(' ', '-')
+    post_replace = post_replace.replace("'", '')
     filename = '{}-{}.md'.format(today, post_replace)
     save_path = '{}{}'.format(root_dir, filename)
 
