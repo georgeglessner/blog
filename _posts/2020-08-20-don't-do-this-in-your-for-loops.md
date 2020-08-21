@@ -4,7 +4,7 @@ title: "Don't Do This In Your For Loops"
 tags: 
 ---
 
-Our intern got a ticket yesterday about a page that wouldn't load for one of our employees. The page is a table that display data. In this case, there were 17,000 lines of equipment that needed to be displayed. But all she saw was a never ending loading circle. 
+Our intern got a ticket yesterday about a page that wouldn't load for one of our employees. The page is a table that displays equipment data. In this case, there were 17,000 lines of equipment that needed to be displayed. But all she saw was a never ending loading circle. 
 
 I took a look at the code, found where the table creation logic was, and saw the following (pseudo-ish code)
 
