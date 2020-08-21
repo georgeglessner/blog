@@ -21,7 +21,7 @@ for ($i=0; $i<count($equipmentChunk); $i++){
 }
 ```
 
-The common issue that was made here is calling `count()` inside the for loop iteration. To optimize this code, it would be better to write it as such
+The common issue that was made here was calling `count()` inside the for loop iteration. To optimize this code, it would be better to write it as such
 
 ```php
 $equipmentArray = getEquipmentArray($location); // 17,000 entries
