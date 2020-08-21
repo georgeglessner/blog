@@ -32,7 +32,7 @@ $chunkCount = count($equipmentChunk);
 for ($i=0; $i<$chunkCount; $i++){
     // some logic here 
     $equipmentDetail = $equipmentChunk[$i];
-    $equipmnetCount = count($equipmentDetail);
+    $equipmentCount = count($equipmentDetail);
     
     for($j=0; $j<$equipmentCount; $j++) {
         // table logic here
@@ -48,7 +48,7 @@ Another way of solving this issue would be to use a `foreach()` loop. The `forea
 $equipmentArray = getEquipmentArray($location); // 17,000 entries
 $equipmentChunk = array_chunk($equipmentArray, 500); // 34 chunks
 
-foreach($equipmnetChunk as $chunk){
+foreach($equipmentChunk as $chunk){
     // some logic here 
     
     foreach($chunk) {
