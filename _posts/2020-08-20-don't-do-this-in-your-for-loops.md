@@ -14,8 +14,9 @@ $equipmentChunk = array_chunk($equipmentArray, 500); // 34 chunks
 
 for ($i=0; $i<count($equipmentChunk); $i++){
     // some logic here 
+    $equipmentDetail = $equipmnetChunk[$i];
 
-    for($j=0; $j<count($equipmnetChunk[$i]); $j++) {
+    for($j=0; $j<count($equipmentDetail); $j++) {
         // table logic here
     }
 }
