@@ -14,7 +14,7 @@ Instantly we starting hooking into browns again. Every run seemed to produce one
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/whiteriver10.JPG" alt="PB brown">
+  <img src="{{site.baseurl}}/assets/2020/images/whiteriver10.JPG" alt="PB brown">
     <center><figcaption>My new personal best brown trout. 25.5 inches.</figcaption></center>
 </figure>
 </center>
@@ -23,7 +23,7 @@ Cranor believes we caught 25 or so brown trout today, and many more rainbows. To
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/whiteriver11.jpeg" alt="Another brown">
+  <img src="{{site.baseurl}}/assets/2020/images/whiteriver11.jpeg" alt="Another brown">
     <center><figcaption>One of the many brown trout put to the net today.</figcaption></center>
 </figure>
 </center>
@@ -32,7 +32,7 @@ My dad and I had a wonderful time on the White River catching great fish and mak
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/whiteriver12.jpeg" alt="Dad's brown">
+  <img src="{{site.baseurl}}/assets/2020/images/whiteriver12.jpeg" alt="Dad's brown">
     <center><figcaption>My dad with a nice brown.</figcaption></center>
 </figure>
 </center>

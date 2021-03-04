@@ -22,12 +22,12 @@ The install script will perform a few checks before proceeding.
 If all the checks passed in step 2, you should see a screen that looks like the following
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/welcome-pihole.png" alt="Step 3">
+  <img src="{{site.baseurl}}/assets/2019/images/welcome-pihole.png" alt="Step 3">
 </figure>
 
 Hit enter to continue through the first few welcome messages until you arrive at this screen
 <figure>
-  <img src="{{site.baseurl}}/assets/images/interface-pihole.png" alt="Step 3">
+  <img src="{{site.baseurl}}/assets/2019/images/interface-pihole.png" alt="Step 3">
 </figure>
 ## Step 4
 Choose either `eth0` (ethernet) or `wlan0` (wireless). I prefer an ethernet connection, but use whatever you prefer. This particular device I am installing PiHole on is connected via WiFi so I will select `wlan0`. 
@@ -37,43 +37,43 @@ __Tip:__ Use the up/down arrow keys to change selection and the space bar to sel
 ## Step 5
 Next it will ask you to choose an upstream DNS provider. I always go with Google, but choose whichever you prefer. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/dns-pihole.png" alt="Step 5">
+  <img src="{{site.baseurl}}/assets/2019/images/dns-pihole.png" alt="Step 5">
 </figure>
 
 ## Step 6
 Next it will ask you to choose a block list, don't worry about which one you choose as you can add alternative ones later. Pick whichever one you would like for now. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/block-list-pihole.png" alt="Step 6">
+  <img src="{{site.baseurl}}/assets/2019/images/block-list-pihole.png" alt="Step 6">
 </figure>
 ## Step 7
 Select the protocol you wish to use. Most likely this will be IPv4. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/protocol-pihole.png" alt="Step 7">
+  <img src="{{site.baseurl}}/assets/2019/images/protocol-pihole.png" alt="Step 7">
 </figure>
 ## Step 8 
 This is where you can set your static IP if you do not already have one set. If you select "Yes" here, make sure you note what your current IP address is as this will be the IP address you will use from now on for this machine. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/ip-address-pihole.png" alt="Step "8>
+  <img src="{{site.baseurl}}/assets/2019/images/ip-address-pihole.png" alt="Step "8>
 </figure>
 ## Step 9
 Next it will ask you if you would like to install the web admin interface (GUI). I highly recommend you do as this makes modifying your PiHole settings and visualizing the statics much easier. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/web-interface-pihole.png" alt="Step 9">
+  <img src="{{site.baseurl}}/assets/2019/images/web-interface-pihole.png" alt="Step 9">
 </figure>
 ## Step 10
 This step asks if you would like to install the webserver. If you do not have a webserver already installed you must select "on" in order to use the GUI. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/web-server-pihole.png" alt="Step 10">
+  <img src="{{site.baseurl}}/assets/2019/images/web-server-pihole.png" alt="Step 10">
 </figure>
 ## Step 11
 Next it will ask if you would like to log queries. Enabling this will allow you to see all the domains devices connected to PiHole have tried to access. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/queries-pihole.png" alt="Step 11">
+  <img src="{{site.baseurl}}/assets/2019/images/queries-pihole.png" alt="Step 11">
 </figure>
 ## Step 12
 Next it will ask which level of privacy you want. I suggest you show everything, but choose whatever you are most comfortable with. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/privacy-pihole.png" alt="Step 12">
+  <img src="{{site.baseurl}}/assets/2019/images/privacy-pihole.png" alt="Step 12">
 </figure>
 PiHole will finsih the installation process and apply all the settings you have chosen. 
 
@@ -85,7 +85,7 @@ Run the following command to set a new admin password.
 If everything was successful, you should now be able to open a web browser and go to `PIHOLE_IP_ADDRESS/admin` and see the GUI. 
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/GUI-pihole.png" alt="Step 13">
+  <img src="{{site.baseurl}}/assets/2019/images/GUI-pihole.png" alt="Step 13">
 </figure>
 Click "Login" and enter the admin password you set in step 13. 
 
@@ -101,20 +101,20 @@ To enable network wide ad blocking, we must set our router's DNS to point to the
 My DNS settings are located under "Setup". I set my primary DNS to be my PiHole IP address. If you would like to add redundancy in case your PiHole loses connectivity, you may duplicate your setup on another device and add that IP address as a backup DNS server. 
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/router-dns.png" alt="DNS Settings">
+  <img src="{{site.baseurl}}/assets/2019/images/router-dns.png" alt="DNS Settings">
 </figure>
 
 ## Adding Additional Block Lists
 Once logged in to the PiHole GUI, go to Settings -> Blocklists. Here you will see all of the blocklists currently installed. There are many resources online providing you with blocklists for all sorts of different blocking scenarios. One of my favorite lists is `https://dbl.oisd.nl`. You can find out more information about this blocklist [here](https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/). Once you have added the lists you want, click "Save and Update". PiHole will update and add the new lists. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/add-blocklist-pihole.png" alt="Add blocklist">
+  <img src="{{site.baseurl}}/assets/2019/images/add-blocklist-pihole.png" alt="Add blocklist">
 </figure>
 
 
 You should now see over 1 million domains on your blocklist!
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/GUI-update-pihole.png" alt="Domains">
+  <img src="{{site.baseurl}}/assets/2019/images/GUI-update-pihole.png" alt="Domains">
 </figure>
 
 If you have any questions, please feel free to contact me. 

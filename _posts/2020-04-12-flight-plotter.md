@@ -8,7 +8,7 @@ I started tracking flights in February of this year using PiAware. I soon after 
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/FlightPlot.png" alt="First brown">
+  <img src="{{site.baseurl}}/assets/2020/images/FlightPlot.png" alt="First brown">
     <center><figcaption>Flight Plot Using Matplotlib</figcaption></center>
 </figure>
 </center>
