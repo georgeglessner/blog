@@ -12,7 +12,7 @@ The day started off almost instantly with me putting a bow to the net. At 8 a.m.
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver2.jpg" alt="First brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver2.jpg" alt="First brown">
     <center><figcaption>My first White River brown!</figcaption></center>
 </figure>
 </center>
@@ -21,7 +21,7 @@ Fifteen short minutes later, I put another nice brown to the net!
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver3.jpeg" alt="Second brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver3.jpeg" alt="Second brown">
     <center><figcaption>My second brown of the day.</figcaption></center>
 </figure>
 </center>
@@ -30,7 +30,7 @@ We caught consistent, countless, rainbow trout throughout the whole day. Most of
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver9.jpeg" alt="Dad with a nice bow">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver9.jpeg" alt="Dad with a nice bow">
     <center><figcaption>Dad with a nice bow.</figcaption></center>
 </figure>
 </center>
@@ -40,7 +40,7 @@ At 11 a.m. I hooked into my 3rd brown trout, a decent one at about 16" or so. Th
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver4.jpg" alt="Second brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver4.jpg" alt="Second brown">
     <center><figcaption>My second brown of the day</figcaption></center>
 </figure>
 </center>
@@ -50,7 +50,7 @@ At 12 p.m., just before lunch, my indicator went down and I set the hook. It fel
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver5.jpeg" alt="Dad's first brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver5.jpeg" alt="Dad's first brown">
     <center><figcaption>Dad with his first brown of the trip!</figcaption></center>
 </figure>
 </center>
@@ -59,14 +59,14 @@ We continued to catch bows all day long after lunch. When it was close to ending
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver6.jpg" alt="Third brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver6.jpg" alt="Third brown">
     <center><figcaption>My third brown of the day.</figcaption></center>
 </figure>
 </center>
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver7.jpeg" alt="Last brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver7.jpeg" alt="Last brown">
     <center><figcaption>My last brown of the day.</figcaption></center>
 </figure>
 </center>
@@ -79,7 +79,7 @@ Tomorrow is our last day here, and we are heading out with spinning gear. Should
 Special thanks to Gabe Levin for putting us on some great fish these last two days! 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver8.jpg" alt="Last brown">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver8.jpg" alt="Last brown">
     <center><figcaption>Guide Gabe Levin and I.</figcaption></center>
 </figure>
 </center>

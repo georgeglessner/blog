@@ -12,7 +12,7 @@ My current setup is my antenna attached to a soup can, AKA the cantenna as I hav
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/skyaware.png" alt="SkyAware Map">
+  <img src="{{site.baseurl}}/assets/images/2020/skyaware.png" alt="SkyAware Map">
     <center><figcaption>Sample output of my SkyAware map.</figcaption></center>
 </figure>
 </center>

@@ -11,7 +11,7 @@ Our 7:30 a.m. start was a cold one, in the upper 30 degrees, and stayed on the c
 Our focus for the first two days is to try to catch a big brown, or any brown, on the fly. By 9 a.m. both my dad and I had put a "cookie cutter" bow to the net. This is what Gabe referred to White River bows 12-14 inches in length. For the next hour and a half, we didn't stick a thing. My dad then stuck two more bows around 11 am, almost back-to-back. I followed suit thirty minutes or so after, and also put two more cookie cutters to the net. As we were floating by Gaston's just before lunch, my dad connected with a fat 16" bow which put up a decent fight for him. 
 
 <figure>
-  <img src="{{site.baseurl}}/assets/2020/images/whiteriver1.jpeg" alt="Dad with his 16 inch bow">
+  <img src="{{site.baseurl}}/assets/images/2020/whiteriver1.jpeg" alt="Dad with his 16 inch bow">
     <center><figcaption>Dad with his 16" bow.</figcaption></center>
 </figure>
 
