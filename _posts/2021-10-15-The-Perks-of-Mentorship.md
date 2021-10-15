@@ -6,9 +6,9 @@ tags:
 
 At the beginning this year, a close co-worker of mine reached out about starting a weekly mentorship session with me.  I had never had a mentor, let alone been one. I was honored that he asked me to be his mentor and happily accepted. 
 
-We set up reoccurring weekly meetings every Friday afternoon. I had no idea what to expect for our first meeting, so I told him that this time is for him and he can bring whatever he wanted to work on or talk about during that time. 
+We set up reoccurring weekly meetings every Friday afternoon. I had no idea what to expect for our first meeting, so I told him that this time was for him to bring whatever he wanted to work on or discuss. 
 
-Most of the meetings are spent walking through code he is working on that week. Most of the time I watch him write the code and offer my advice and suggestions when I see something that can be improved upon. Very rarely will I be in the “driver's seat”, which is preferred, as I believe the best way to learn is to do it yourself. 
+Most of the meetings are spent walking through code he is working on that week. Often, I watch him write the code and offer my advice and suggestions when I see something that can be improved upon. Very rarely will I be in the “driver's seat”, which is preferred, as I believe the best way to learn is to do it yourself. 
 
 For my mentee, he is able to get a better understanding of the ___why___ behind certain design implementations. In his words, he enjoys “understanding the under-the-hood logic. Having the opportunity to learn how the dots are connected”. He asks a ton of great questions, and will have me go over things more than once so he fully understands what is going on. His desire for knowledge and improving his development skills is inspiring. 
 
