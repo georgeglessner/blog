@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Perks of Mentorship"
-tags: 
+tags: mentorship
 ---
 
 At the beginning this year, a close co-worker of mine reached out about starting a weekly mentorship session with me.  I had never had a mentor, let alone been one. I was honored that he asked me to be his mentor and happily accepted. 
