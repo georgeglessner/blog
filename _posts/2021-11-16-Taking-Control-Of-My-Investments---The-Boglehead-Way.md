@@ -15,7 +15,7 @@ I never gave much thought to how much I was paying in fees to my advisor, and th
 
 <center>
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2021/ExpenseRatio.PNG" alt="First brown">
+  <img src="{{site.baseurl}}/assets/images/2021/ExpenseRatio.PNG" alt="Savings">
     <center><figcaption>Potential Savings Over 30 Years</figcaption></center>
 </figure>
 </center>
