@@ -53,7 +53,7 @@ Select the protocol you wish to use. Most likely this will be IPv4.
 ## Step 8 
 This is where you can set your static IP if you do not already have one set. If you select "Yes" here, make sure you note what your current IP address is as this will be the IP address you will use from now on for this machine. 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2019/ip-address-pihole.png" alt="Step "8>
+  <img src="{{site.baseurl}}/assets/images/2019/ip-address-pihole.png" alt="Step 8">
 </figure>
 ## Step 9
 Next it will ask you if you would like to install the web admin interface (GUI). I highly recommend you do as this makes modifying your PiHole settings and visualizing the statics much easier. 
