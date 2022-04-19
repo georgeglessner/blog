@@ -8,8 +8,6 @@ tags: software, javascript
 ## How to Reset Board
 If you are down to your last attempt on the daily [wordle](https://www.powerlanguage.co.uk/wordle/) puzzle and are determined to solve it, you can use the below script to reset the board to give you more chances at guessing. Once you submit your 6th guess, the answer is displayed and the fun is over. This script is best used after you have guessed your 5th word and still don't know what the word may be. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WW6UH7IbLZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 To execute the script, type `ctrl` + `shift` + `i` in your browser. This should bring up a developer console. Navigate to the tab that says "console". You will be able to paste the following snippet of code there to reset the puzzle board. 
 
 ```javascript
