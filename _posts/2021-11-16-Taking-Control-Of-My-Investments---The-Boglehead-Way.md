@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking Control Of My Investments - The Boglehead Way"
-tags: 
+tags: investment, investing
 ---
 
 I recently took control of my investments. Previously, I used a financial advisor for my Roth IRA and was only invested in a target date fund in my 401k. Both of these methods are perfectly fine for anyone who wants a relatively hands off approach to investing. However, I think you will find the following information can lead to a less complicated, cheaper, and more rewarding investment experience. 
