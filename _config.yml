@@ -38,6 +38,9 @@ show_excerpts: true
 # pagination
 paginate: 5
 
+#allow future posts
+future: true
+
 # blog post url 
 permalink: /:title/
 
